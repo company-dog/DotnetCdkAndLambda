@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{FE46ACF9-B348-44A9-9217-EDFD9A7CD15B}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{06651B7E-182C-4154-9E5B-E895AFA1FF24}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsCdkPhoneVertifyApi", "src\AwsCdkPhoneVertifyApi\AwsCdkPhoneVertifyApi.csproj", "{F565687A-CB69-4D8C-9600-592E96FB467A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AwsCdkPhoneVerifyApi", "src\AwsCdkPhoneVerifyApi\AwsCdkPhoneVerifyApi.csproj", "{79ABE4F6-C6F5-4867-915F-3BE623CC651D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,20 +20,20 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Debug|x64.ActiveCfg = Debug|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Debug|x64.Build.0 = Debug|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Debug|x86.ActiveCfg = Debug|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Debug|x86.Build.0 = Debug|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Release|Any CPU.Build.0 = Release|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Release|x64.ActiveCfg = Release|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Release|x64.Build.0 = Release|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Release|x86.ActiveCfg = Release|Any CPU
-		{F565687A-CB69-4D8C-9600-592E96FB467A}.Release|x86.Build.0 = Release|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Debug|x64.Build.0 = Debug|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Debug|x86.Build.0 = Debug|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Release|x64.ActiveCfg = Release|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Release|x64.Build.0 = Release|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Release|x86.ActiveCfg = Release|Any CPU
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{F565687A-CB69-4D8C-9600-592E96FB467A} = {FE46ACF9-B348-44A9-9217-EDFD9A7CD15B}
+		{79ABE4F6-C6F5-4867-915F-3BE623CC651D} = {06651B7E-182C-4154-9E5B-E895AFA1FF24}
 	EndGlobalSection
 EndGlobal

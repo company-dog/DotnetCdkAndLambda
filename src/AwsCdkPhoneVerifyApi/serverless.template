@@ -6,7 +6,7 @@
     "Get": {
       "Type": "AWS::Serverless::Function",
       "Properties": {
-        "Handler": "EmptyServerless::EmptyServerless.Functions::Get",
+        "Handler": "AwsCdkPhoneVerifyApi::AwsCdkPhoneVertfyApi.Functions::PostAsync",
         "Runtime": "dotnetcore3.1",
         "CodeUri": "",
         "MemorySize": 256,
